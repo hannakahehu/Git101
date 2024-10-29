@@ -1,2 +1,3 @@
 This is not a conflict 
 introducing a conflict
+Adding another conflict 
